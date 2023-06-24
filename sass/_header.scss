@@ -6,7 +6,7 @@
     color: white;
 
     a {
-        color: white;
+        color: black;
         text-decoration: none;
     }
 
@@ -27,7 +27,8 @@
 // Header top end
 
 .header-wrapper-banner {
-    background-image: url(/images/magicpattern-87PP9Zd7MNo-unsplash.jpg);
+    // background-image: url(/images/magicpattern-87PP9Zd7MNo-unsplash.jpg);
+    background-image: url(../images/magicpattern-87PP9Zd7MNo-unsplash.jpg);
     background-size: cover;
     overflow: hidden;
     width: 100vw;
