@@ -1,0 +1,23 @@
+@import 'header';
+@import 'support-section';
+@import 'meet-founder-section';
+@import 'kindness-news-section';
+@import 'signup-section';
+@import 'get-involved-section';
+@import 'work-in-chicago-section';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+
+    ul {
+        li {
+            list-style-type: none;
+        }
+    }
+}
